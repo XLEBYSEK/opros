@@ -88,7 +88,7 @@ function an40() {
   a40.disabled=true;
   a41.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — PHP</p>';
+  result.innerHTML = '<p>Ваш язык программирования — PHP</p>';
 }
 
 //Друзья тоже тупят
@@ -100,7 +100,7 @@ function an51() {
   a50.disabled=true;
   a50.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — JavaScript</p>';
+  result.innerHTML = '<p>Ваш язык программирования — JavaScript</p>';
 }
 
 //Друзья не тупят
@@ -112,7 +112,7 @@ function an50() {
   a50.disabled=true;
   a51.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Ruby</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Ruby</p>';
 }
 
 //хочет быстро обучиться языку
@@ -124,7 +124,7 @@ function an61() {
   a61.disabled=true;
   a60.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Python</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Python</p>';
 }
 
 //Не хочет быстро обучиться языку
@@ -148,7 +148,7 @@ function an71() {
   a70.disabled=true;
   a70.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — C#</p>';
+  result.innerHTML = '<p>Ваш язык программирования — C#</p>';
 }
 
 //Не нравится Windows
@@ -172,7 +172,7 @@ function an81() {
   a80.disabled=true;
   a80.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Swift</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Swift</p>';
 }
 
 //Не нравится Windows
@@ -184,7 +184,7 @@ function an80() {
   a80.disabled=true;
   a81.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Perl</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Perl</p>';
 }
 
 //Инженер
@@ -220,7 +220,7 @@ function an101() {
   a100.disabled=true;
   a100.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Pascal</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Pascal</p>';
 }
 
 //Не любит старину
@@ -232,7 +232,7 @@ function an100() {
   a100.disabled=true;
   a101.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Scala</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Scala</p>';
 }
 
 //Интроверт
@@ -256,7 +256,7 @@ function an110() {
   a110.disabled=true;
   a11.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — С</p>';
+  result.innerHTML = '<p>Ваш язык программирования — С</p>';
 }
 
 //будет работать с большим кол-вом информации
@@ -268,7 +268,7 @@ function an121() {
   a120.disabled=true;
   a120.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — C++</p>';
+  result.innerHTML = '<p>Ваш язык программирования — C++</p>';
 }
 
 //не будет работать с большим кол-вом информации
@@ -280,5 +280,5 @@ function an120() {
   a120.disabled=true;
   a121.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Java</p>';
+  result.innerHTML = '<p>Ваш язык программирования — Java</p>';
 }
