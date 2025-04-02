@@ -14,7 +14,7 @@ function an10() {
   a11.disabled=true;
   a11.style.visibility='hidden';
   //выводим результат
-  result.innerHTML = '<p>Ваш выбор — Delphi</p>';
+  result.innerHTML = '<p>Хорошо, до свидания!</p>';
 }
 
 //Часто сомневается
